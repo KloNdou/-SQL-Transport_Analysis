@@ -1,6 +1,6 @@
-# Purpose of this analysis
+# Purpose of the analysis
 
-I analyzed Transport for London (TfL) journey data to uncover insights about public transportation usage in London. The analysis focuses on trends across different transport types, seasonal patterns, and the impact of external events like the COVID-19 pandemic.
+Analyzed Transport for London (TfL) journey data to uncover insights about public transportation usage in London. The analysis focuses on trends across different transport types, seasonal patterns, and the impact of external events like the COVID-19 pandemic.
 
 ## Key Insights
 1. Bus services are the most utilized, with 24,905.19 million journeys.
