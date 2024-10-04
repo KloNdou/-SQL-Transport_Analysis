@@ -57,7 +57,7 @@ I analyzed Transport for London (TfL) journey data to uncover insights about pub
 - Develop robust forecasting methods for services with high relative variability, particularly TfL Rail and Emirates Airline.
 - Focus on bringing ridership back to pre-pandemic levels, especially for Underground and Bus services.
 - Utilize the insights from this analysis to inform policy decisions and service improvements across the TfL network.
-- 
+  
 ## Future Work
 - Analyze factors influencing bus ridership decline.
 - Investigate the impact of special events and seasonal variations on journey patterns.
